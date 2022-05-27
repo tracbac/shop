@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.box{
+    background-color: black;
+    width: 100vw;
+    height: 70px;
+    
+}
+h2{
+    color: aliceblue;
+    font-size: 30px;
+    
+}
+.Sanpham{
+    display: flex;
+    width: 100vw;
+    height: auto;
+    flex-wrap: wrap-reverse;
+    background-color: #bdc3c7;
+}
+.con{
+    display: block;
+    padding: 5Px;
+    margin: 70px;
+    width: 260px;
+    height: 345px;
+    border: 2px solid #111;
+    background-color: #7f8c8d;
+}
+img{width: 246PX;
+height: 200px;}
+h1{
+    color: #fff;
+    font-size: 20px;
+}a{text-decoration: none;
+color: #000;
+font-size: 20px;
+text-align: center;
+margin: auto;}
+.add{
+    margin: auto;
+    text-align: center;
+    width: 200Px;
+    height: 30px;
+    background-color: #3498db;
+    border-radius: 5%;
+    padding: 10px;
+}
+.cart{
+    position: absolute;
+    display: none;
+    width: 350px;
+    height: auto;
+    background-color: #3498db;
+    margin-left: 77%;
+    bottom: 88%;
+}
+
+.Gio{
+    height: 50px;
+    width: 50px;
+    margin-left: 90%;
+}
+#btn2{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 99.9%; 
+}
